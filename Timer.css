@@ -1,0 +1,32 @@
+#clock {
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    border: 5px solid rgb(247, 172, 129);
+    width: 35%;
+    line-height: 50px;
+    font-size: larger;
+    background-color: white;
+}
+.container {
+    background: #222;
+    width: 100%;
+    height: 100% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 45px; 
+    border: none;
+    font-size: 40px; 
+    font-weight: bold;
+    color: black;
+}
+img{
+    width: 90%;
+    border-radius: 20px;
+}
+body{
+    background-color: #333;
+}

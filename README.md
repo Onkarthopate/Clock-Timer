@@ -1,2 +1,2 @@
-# Clock-Timer
-Click image to start countdown .
+Project : Timer countdown
+
